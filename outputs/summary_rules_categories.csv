@@ -1,0 +1,13 @@
+scheme,model,seg_aupr,hit_at_3
+company_held_out,minilm,0.352,0.797
+company_held_out,rules,0.162,0.539
+company_held_out,tfidf,0.478,0.893
+random_contracts,minilm,0.342,0.79
+random_contracts,rules,0.162,0.539
+random_contracts,tfidf,0.476,0.875
+random_segments,minilm,0.39,0.801
+random_segments,rules,0.162,0.539
+random_segments,tfidf,0.513,0.872
+type_held_out,minilm,0.339,0.797
+type_held_out,rules,0.162,0.539
+type_held_out,tfidf,0.461,0.88

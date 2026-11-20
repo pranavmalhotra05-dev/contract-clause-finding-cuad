@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+duckdb
+pyarrow
+joblib
+matplotlib
+tabulate
+sentence-transformers
